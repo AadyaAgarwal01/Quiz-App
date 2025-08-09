@@ -3,6 +3,7 @@ import { Question as QuestionType } from "../types/quiz";
 import Timer from "./Timer";
 import ProgressBar from "./ProgressBar";
 import { CheckCircle, XCircle } from "lucide-react";
+import bgImage from "../assets/img.jpg"; // ✅ Import image
 
 interface QuestionProps {
   question: QuestionType;
@@ -74,7 +75,7 @@ const Question: React.FC<QuestionProps> = ({
   return (
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center p-4"
-      style={{ backgroundImage: "url('img.jpg')" }}
+      style={{ backgroundImage: `url(${bgImage})` }}
     >
       <div className="max-w-2xl w-full">
         <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 border border-white/20 shadow-2xl">

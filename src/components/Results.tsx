@@ -1,6 +1,7 @@
 import React from "react";
 import { Trophy, Target, Clock, RotateCcw, Star } from "lucide-react";
 import { QuizResult } from "../types/quiz";
+import bgImage from "../assets/img.jpg"; // adjust path if needed
 
 interface ResultsProps {
   result: QuizResult;
@@ -35,7 +36,10 @@ const Results: React.FC<ResultsProps> = ({
   };
 
   return (
-    <div className="min-h-screen bg-[url('img.jpg')] bg-cover bg-center flex items-center justify-center p-4">
+    <div
+      className="min-h-screen bg-cover bg-center flex items-center justify-center p-4"
+      style={{ backgroundImage: `url(${bgImage})` }}
+    >
       <div className="max-w-md w-full">
         <div className="bg-white/10 backdrop-blur-lg rounded-3xl p-8 border border-white/20 shadow-2xl text-center">
           {isNewHighScore && (
