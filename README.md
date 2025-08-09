@@ -35,6 +35,14 @@ Test your knowledge, challenge your mind, and have fun with this sleek and engag
 
 ---
 
+## Tech Stack
+
+- **React**  
+- **TypeScript (TSX)**  
+- **JavaScript**
+
+---
+
 ## Get Started
 
 Try it out now at:  
@@ -42,23 +50,6 @@ Try it out now at:
 
 Whether you're preparing for exams, testing trivia knowledge, or just passing the time, Quiz App offers a fun and educational experience.
 
----
-
-## Tech Stack
-
-*(Optional: Add technologies you used, e.g. React, TypeScript, Vite, etc.)*
-
----
-
-## Contribution
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
-## License
-
-*(Add license details if applicable)*
 
 ---
 
