@@ -1,3 +1,67 @@
+# Quiz App
+
+Welcome to **Quiz App** – The Ultimate Quiz Experience!
+
+Test your knowledge, challenge your mind, and have fun with this sleek and engaging quiz platform designed for learners, trivia lovers, and curious minds of all ages.
+
+---
+
+## Features
+
+- **Diverse Question Formats**  
+  Engage with multiple-choice, true/false, and short-answer questions across a variety of topics.
+
+- **Real-Time Feedback**  
+  Instantly see correct answers and explanations to boost your learning.
+
+- **Progress Tracking**  
+  Monitor your performance with scores and completion rates.
+
+- **User-Friendly Interface**  
+  Navigate effortlessly with a clean and intuitive design.
+
+---
+
+## Why Use Quiz App?
+
+- **Interactive Learning**  
+  Turn studying into a fun, interactive experience.
+
+- **Personalized Challenges**  
+  Quizzes adapt to your knowledge level and interests.
+
+- **Accessible Anytime, Anywhere**  
+  Learn at your own pace on any device.
+
+---
+
+## Get Started
+
+Try it out now at:  
+[https://quiz-app-c8g7-l33b0fau2-aadyas-projects-617a8309.vercel.app/](https://quiz-app-c8g7-l33b0fau2-aadyas-projects-617a8309.vercel.app/)
+
+Whether you're preparing for exams, testing trivia knowledge, or just passing the time, Quiz App offers a fun and educational experience.
+
+---
+
+## Tech Stack
+
+*(Optional: Add technologies you used, e.g. React, TypeScript, Vite, etc.)*
+
+---
+
+## Contribution
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+---
+
+## License
+
+*(Add license details if applicable)*
+
+---
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
